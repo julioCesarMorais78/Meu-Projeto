@@ -7,5 +7,6 @@ num1 = 9
 resp = math.sqrt(num1)
 print(resp)
 
-print('Inserindo uma nova linha para verificar e aprender a fazer um commit')
+print('Inserindo uma nova linha para verificar e aprender a fazer um commit.')
+print('Inserindo mais uma linha para aprender a usar o GitHub. 09/10/24.')
 
