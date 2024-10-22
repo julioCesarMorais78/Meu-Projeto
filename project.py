@@ -10,3 +10,5 @@ print(resp)
 print('Inserindo uma nova linha para verificar e aprender a fazer um commit.')
 print('Inserindo mais uma linha para aprender a usar o GitHub. 09/10/24.')
 
+print('Inserindo mais uma linha para entendimento de modificações de arquivos realizadas no GIT Hub 22/10/2024')
+
